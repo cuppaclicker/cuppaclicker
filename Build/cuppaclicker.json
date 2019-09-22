@@ -1,0 +1,16 @@
+{
+"companyName": "theharber",
+"productName": "CuppaClicker",
+"productVersion": "0.1",
+"dataUrl": "cuppaclicker.data.unityweb",
+"wasmCodeUrl": "cuppaclicker.wasm.code.unityweb",
+"wasmFrameworkUrl": "cuppaclicker.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#2C6558",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.11f1"
+}
